@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\appliedLearningAssessment_Jackie\appliedLearningAssessment_Jackie\bin\Debug\appliedLearningAssessment_Jackie.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\appliedLearningAssessment_Jackie\appliedLearningAssessment_Jackie\bin\Debug\appliedLearningAssessment_Jackie.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\appliedLearningAssessment_Jackie\appliedLearningAssessment_Jackie\bin\Debug\appliedLearningAssessment_Jackie.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\appliedLearningAssessment_Jackie\appliedLearningAssessment_Jackie\obj\Debug\appliedLearningAssessment_Jackie.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\appliedLearningAssessment_Jackie\appliedLearningAssessment_Jackie\obj\Debug\appliedLearningAssessment_Jackie.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\appliedLearningAssessment_Jackie\appliedLearningAssessment_Jackie\obj\Debug\appliedLearningAssessment_Jackie.pdb
